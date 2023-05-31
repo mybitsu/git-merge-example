@@ -4,3 +4,4 @@ Cool feature: 011_part3
 Cool feature: 010_part1
 Cool feature: 010_part2
 Cool feature: 010_part3
+Cool feature: 012_part1
