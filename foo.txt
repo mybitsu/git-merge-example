@@ -6,3 +6,4 @@ Cool feature: 002_part2
 Cool feature: 002_part3
 Cool feature: 009_part1
 Cool feature: 009_part2
+Cool feature: 009_part3
