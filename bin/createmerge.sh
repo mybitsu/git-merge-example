@@ -12,7 +12,8 @@ git checkout -b feat/feature$FEATURE
 
 for COMMIT in `seq 1 3`; do
     echo "Cool feature: ${FEATURE}_part$COMMIT" >> foo.txt
-    git commit -am "Adding Feature ${FEATURE}_part$COMMIT."
+    git add foo.txt
+    git commit -m "Adding Feature ${FEATURE}_part$COMMIT."
 done    
 
 git checkout main
