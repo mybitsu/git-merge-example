@@ -1,2 +1,3 @@
 Cool feature: 011_part1
 Cool feature: 011_part2
+Cool feature: 011_part3
