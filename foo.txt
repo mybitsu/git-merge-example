@@ -1,1 +1,2 @@
 Cool feature: 001_part1
+Cool feature: 001_part2
