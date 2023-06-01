@@ -19,7 +19,7 @@ NEXT_FEATURE=$(printf "%03.f" $NEXT_FEATURE)
 echo $NEXT_FEATURE > data/nextfeature.txt
 
 git checkout $ON_BRANCH
-git checkout -b feat/feature$FEATURE
+git checkout -b feat/f$FEATURE
 
 for COMMIT in `seq 1 3`; do
     echo "Cool feature: ${FEATURE}_part$COMMIT" >> foo.txt
